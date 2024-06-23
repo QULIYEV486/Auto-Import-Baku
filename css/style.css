@@ -9,6 +9,10 @@
     color: white;
 }
 
+.dropdown{
+    padding: 7px;
+}
+
 
 
 .nav-link:hover{
@@ -137,7 +141,7 @@
 
 .card-img-top{
     width: 239px;
-    height: 275px;
+    height: 270px;
 }
 
 .card-body{
